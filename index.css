@@ -18,7 +18,7 @@ main {
     position: relative;
     width: 100vw;
     height: 100vh;
-    background-color: rgb(97, 112, 13);
+    background-color: rgb(85, 87, 184);
     border-radius: 9px;
     display: flex;
     justify-content: space-between;
@@ -112,7 +112,7 @@ main {
 }
 
 .player-winner {
-    background-color: #2f2f2f;
+    background-color: #29df18;
 }
 
 .player-winner .name {
